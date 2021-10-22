@@ -19,15 +19,15 @@
           <span>
             <img src="/images/build.svg" alt="Selo Rocketseat" />
           </span>
-          <img src="./images/avatar.png" alt="Foto pessoal" />
+          <img id="userImage" src="./images/avatar.png" alt="Foto pessoal" />
         </div>
         <h1 id="userName">Lucas Mancini</h1>
-        <a href="https://github.com/mancinilucas" target="_blank">
+        <a id="userLink" href="https://github.com/mancinilucas" target="_blank">
           <img src="./images/github 2.svg" alt="ícone github" />
-          mancinilucas</a
-        >
+          <span id="userLogin">mancinilucas</span>
+        </a>
 
-        <p>#BuildingTheFuture</p>
+        <p id="userBio">#BuildingTheFuture</p>
 
         <ul id="socialLinks">
           <li class="linkedin">
@@ -53,26 +53,6 @@
         </ul>
       </div>
     </main>
-    <script>
-      const linksSocialMedia = {
-        github: 'mancinilucas',
-        linkedin: 'in/lucasgmancini',
-        instagram: 'mancini_lucas',
-        facebook: 'lucas.mancinii',
-        twitter: 'lucasgmancini'
-      }
-
-      function changeSocialMediaLinks() {
-        for (let li of socialLinks.children) {
-          const social = li.getAttribute('class')
-
-          li.children[0].href = `https://${social}.com/${linksSocialMedia[social]}`
-
-          //alert(li.children[0].href)
-        }
-      }
-
-      changeSocialMediaLinks()
-    </script>
+    <script src="main.js"></script>
   </body>
 </html>
