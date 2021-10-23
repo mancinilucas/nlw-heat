@@ -2,7 +2,6 @@ const linksSocialMedia = {
   github: 'mancinilucas',
   linkedin: 'in/lucasgmancini',
   instagram: 'mancini_lucas',
-  facebook: 'lucas.mancinii',
   twitter: 'lucasgmancini'
 }
 
