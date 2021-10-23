@@ -22,8 +22,7 @@ Badge for DoWhile Event by Rocketseat with user information, GitHub and social m
 
 ### Screenshot
 
-![](./screenshot.png)
-![](./screenshot-mobile.jpeg)
+![](images/screenshot.png)
 
 ### Links
 
