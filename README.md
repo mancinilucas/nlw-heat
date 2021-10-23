@@ -1,6 +1,6 @@
 # nlw-heat
 
-Solução desenvolvida [Next Level Week - Heat](https://nextlevelweek.com/).
+Solução desenvolvida na trilha Origin durante a [Next Level Week - Heat](https://nextlevelweek.com/).
 
 ## Table of contents
 
@@ -17,6 +17,7 @@ Solução desenvolvida [Next Level Week - Heat](https://nextlevelweek.com/).
 
 ### The challenge
 
+Crachá produzido para a DoWhile com informações de usuário, GitHub e redes sociais.
 Badge for DoWhile Event by Rocketseat with user information, GitHub and social media.
 
 ### Screenshot
