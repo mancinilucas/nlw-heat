@@ -26,8 +26,7 @@ Badge for DoWhile Event by Rocketseat with user information, GitHub and social m
 
 ### Links
 
-- Solution URL: [Under construction](#overview)
-- Live Site URL: [Under construction](#overview)
+- Solution URL: [https://mancinilucas.github.io/nlw-heat/](#overview)
 
 ## My process
 
