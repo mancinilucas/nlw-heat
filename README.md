@@ -7,11 +7,9 @@ Solução desenvolvida na trilha Origin durante a [Next Level Week - Heat](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
- - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
-
+- [My process](#my-process)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 
 ## Overview
 
@@ -26,7 +24,7 @@ Badge for DoWhile Event by Rocketseat with user information, GitHub and social m
 
 ### Links
 
-- Solution URL: [https://mancinilucas.github.io/nlw-heat/](#overview)
+- Solution URL: [Crachá DoWhile](https://mancinilucas.github.io/nlw-heat/)
 
 ## My process
 
@@ -41,6 +39,7 @@ Badge for DoWhile Event by Rocketseat with user information, GitHub and social m
 ### What I learned
 
 Review of studied content such as:
+
 - Semantic HTML5
 - Flexbox
 - Grid
@@ -49,7 +48,3 @@ Review of studied content such as:
 - JavaScript functions
 - API
 - Desktop responsive design
-
-
-
-
