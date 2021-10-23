@@ -17,11 +17,12 @@ Solução desenvolvida [Next Level Week - Heat](https://nextlevelweek.com/).
 
 ### The challenge
 
-Crachá Virtual para o evento DoWhile com informações do usuário, GitHub e redes sociais.
+Badge for DoWhile Event by Rocketseat with user information, GitHub and social media.
 
 ### Screenshot
 
-![]()
+![](./screenshot.png)
+![](./screenshot-mobile.jpeg)
 
 ### Links
 
@@ -40,7 +41,15 @@ Crachá Virtual para o evento DoWhile com informações do usuário, GitHub e re
 
 ### What I learned
 
-
+Review of studied content such as:
+- Semantic HTML5
+- Flexbox
+- Grid
+- Figma
+- DOM
+- JavaScript functions
+- API
+- Desktop responsive design
 
 
 
